@@ -13,7 +13,7 @@ import nltk
 from tqdm import tqdm 
 from nltk.stem.snowball import SnowballStemmer # lemmatization
 from nltk.corpus import stopwords
-from sklearn.metrics.pairwise import cosine_similarity
+#from sklearn.metrics.pairwise import cosine_similarity
 
 
 
